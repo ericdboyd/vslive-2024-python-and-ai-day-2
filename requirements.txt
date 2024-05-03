@@ -1,0 +1,15 @@
+markovify==0.9.4
+nltk==3.8.1
+numpy==1.23.5
+opencv_python==4.8.1.78
+Pillow==9.4.0
+# Pillow==10.1.0
+pomegranate==0.14.9
+pygame==2.5.2
+python-constraint==1.4.0
+scikit_learn==1.2.2
+scipy==1.11.4
+tensorflow==2.12.0rc1
+tensorflow_intel==2.12.0rc1
+termcolor==2.2.0
+# transformers==4.35.2
