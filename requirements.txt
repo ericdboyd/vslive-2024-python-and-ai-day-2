@@ -4,12 +4,12 @@ numpy==1.23.5
 opencv_python==4.8.1.78
 Pillow==9.4.0
 # Pillow==10.1.0
-pomegranate==0.14.9
+pomegranate==0.15.0
 pygame==2.5.2
 python-constraint==1.4.0
 scikit_learn==1.2.2
 scipy==1.11.4
-tensorflow==2.12.0rc1
-tensorflow_intel==2.12.0rc1
+tensorflow==2.15.0
+tensorflow_intel==2.15.0
 termcolor==2.2.0
 # transformers==4.35.2
